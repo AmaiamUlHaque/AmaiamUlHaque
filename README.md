@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmaiamUlHaque
-- 👀 I’m interested in ... comp eng
+- 👀 I’m interested in ... computer engineering
 - 🌱 I’m currently learning ... how to filter out noise / power decoupling for a personal project
 
 <!---
