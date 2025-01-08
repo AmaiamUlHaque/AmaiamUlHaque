@@ -1,9 +1,15 @@
 👋 Hiii, my name is Amaiam Ul Haque, just Amaiam (pronouced uh-my-yum) is more than enough!
+
 💻 I'm studying Electrical Engineering @ McMaster Univeristy
+
 🌱 I love to take care of plants and always looking for more to bring home!
+
 🎮 I enjoy playing video games, especially open-world adventure games.
+
 🍵 
+
 🪻 I love anything and everything purple 💜
+
 ✨
 
 <!---
