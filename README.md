@@ -4,7 +4,7 @@
 
 🌱 I love to take care of plants and always looking for more to bring home!
 
-🍵 I live off of tea and I'm always trying new types!
+🍵 Tea flows through my viens and I'm always trying new types!
 
 🪻 I love anything and everything purple 💜
 
