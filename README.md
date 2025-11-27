@@ -17,20 +17,6 @@ You can click the Preview link to take a look at your changes.
 🎮 I enjoy playing video games, especially open-world adventure games.
 
 
-
-## Connect
-<!-- 
-    make clickable with my info/urls?
-    To include: 
-    - linkedin
-    - gmail
-    - 
--->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AmaiamUlHaque/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haque.amaiam5@gmail.com)
-
-
 ## Skills
 <!-- 
     CODE LANGUAGES:
@@ -97,6 +83,8 @@ You can click the Preview link to take a look at your changes.
     - Very Large Scale Integration System Design
 -->
 
+
+
 ### Completed Courses
 ![Logic Design](https://img.shields.io/badge/Logic_Design-4A154B?style=for-the-badge)
 ![Microprocessor Systems](https://img.shields.io/badge/Microprocessor_Systems-008080?style=for-the-badge)
@@ -128,12 +116,12 @@ You can click the Preview link to take a look at your changes.
         - tea + coffee + milk
 -->
 
-![PC Building](https://img.shields.io/badge/PC_Building-00CED1?style=for-the-badge&logo=pcgaming&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D_Printing-FF6B35?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Sewing](https://img.shields.io/badge/Sewing-FF69B4?style=for-the-badge&logo=sewing&logoColor=white)
-![Typing](https://img.shields.io/badge/Typing-32CD32?style=for-the-badge&logo=keyboard&logoColor=white)
-![DIY Projects](https://img.shields.io/badge/DIY_Projects-FF8C00?style=for-the-badge&logo=tools&logoColor=white)
 ![Plants](https://img.shields.io/badge/Plants-228B22?style=for-the-badge&logo=plant&logoColor=white)
+![PC Building](https://img.shields.io/badge/PC_Building-00CED1?style=for-the-badge&logo=pcgaming&logoColor=white)
+![Sewing](https://img.shields.io/badge/Sewing-AA69FF?style=for-the-badge&logo=sewing&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-FF6B35?style=for-the-badge&logoColor=white)
+![Typing](https://img.shields.io/badge/Typing-32CDAA?style=for-the-badge&logo=keyboard&logoColor=white)
+![DIY Projects](https://img.shields.io/badge/DIY_Projects-AA8C35?style=for-the-badge&logo=tools&logoColor=white)
 ![Tea](https://img.shields.io/badge/Tea-D2691E?style=for-the-badge&logo=teapot&logoColor=white)
 ![Coffee](https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=coffee&logoColor=white)
 ![Milk Drinks](https://img.shields.io/badge/Milk_Drinks-F5F5DC?style=for-the-badge&logo=milk&logoColor=black)
@@ -161,6 +149,20 @@ You can click the Preview link to take a look at your changes.
 ### Currently Playing
 ![Zelda: TOTK](https://img.shields.io/badge/The_Legend_of_Zelda:_Tears_of_the_Kingdom-4B7F69?style=for-the-badge&logo=nintendo&logoColor=white)
 ![NieR: Automata](https://img.shields.io/badge/NieR:_Automata-%23007ACC.svg?style=for-the-badge)
+
+
+
+## Connect
+<!-- 
+    make clickable with my info/urls?
+    To include: 
+    - linkedin
+    - gmail
+    - 
+-->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AmaiamUlHaque/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haque.amaiam5@gmail.com)
 
 
 
