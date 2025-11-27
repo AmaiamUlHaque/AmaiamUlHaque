@@ -171,8 +171,9 @@ You can click the Preview link to take a look at your changes.
 ## GitHub Stats
 <!--
     - github commit eating snake
-
 -->
+
+![snake gif](https://github.com/AmaiamUlHaque/AmaiamUlHaque/blob/output/github-contribution-grid-snake.gif)
 
 
 
