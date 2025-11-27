@@ -173,8 +173,10 @@ You can click the Preview link to take a look at your changes.
     - github commit eating snake
 -->
 
-![snake gif](https://github.com/AmaiamUlHaque/AmaiamUlHaque/blob/output/github-contribution-grid-snake.gif)
 
+![snake gif](https://github.com/AmaiamUlHaque/AmaiamUlHaque/blob/output/github-contribution-grid-snake.gif)
+![snake gif1](https://github.com/AmaiamUlHaque/AmaiamUlHaque/blob/output/dist/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/AmaiamUlHaque/AmaiamUlHaque/blob/output/dist/github-contribution-grid-snake.svg)
 
 
 <!-- 
