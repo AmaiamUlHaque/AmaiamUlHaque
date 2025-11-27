@@ -146,6 +146,8 @@ You can click the Preview link to take a look at your changes.
 ![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
+*NOTE: I know minecraft isn't a platform, but I love it too much. It deserves more love.
+
 ### Currently Playing
 ![Zelda: TOTK](https://img.shields.io/badge/The_Legend_of_Zelda:_Tears_of_the_Kingdom-4B7F69?style=for-the-badge&logo=nintendo&logoColor=white)
 ![NieR: Automata](https://img.shields.io/badge/NieR:_Automata-%23007ACC.svg?style=for-the-badge)
